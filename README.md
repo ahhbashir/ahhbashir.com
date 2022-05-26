@@ -1,3 +1,6 @@
-Bashir Ahmed's Portfolio Site ;)
+# ahhbashir.com
+#### Bashir Ahmed's Portfolio Site
 
-ahhbashir.com
+
+
+Check out the site --> [ahhbashir.com](http://ahhbashir.com)
