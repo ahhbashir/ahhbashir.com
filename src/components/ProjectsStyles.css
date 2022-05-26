@@ -1,4 +1,4 @@
-.projects {
+.pricing {
     width: 100%;
     padding: 6rem 1rem;
     background-color: #000;
@@ -48,7 +48,7 @@
     padding: 1rem;
 }
 
-.projects p {
+.pricing p {
     color: #eee;
     padding: 1rem 0;
     font-size: 1.2rem;
